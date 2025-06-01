@@ -44,6 +44,6 @@ Copy
 
 ## 📈 Visual Results
 
-![LSTM Prediction Plot](Stock_prediction_using_LSTM.png)
-![RNN Prediction Plot](Stock_prediction_using_RNN.png)
-![Random Forest Regressor](Stock_prediction_using_Random_Forest_Regressor.png)
+![LSTM Prediction Plot](Stock%20prediction%20using%20LSTM.png)
+![RNN Prediction Plot](Stock%20prediction%20using%20RNN.png)
+![Random Forest Regressor](stock%20prediction%20using%20Random%20Forest%20Regression.png)
