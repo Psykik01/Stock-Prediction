@@ -44,8 +44,6 @@ Copy
 
 ## 📈 Visual Results
 
-Add these if you have plots:
-
-- 📉 Predicted vs Actual Closing Price
-- 🧪 Loss Curve over Epochs
-- 📊 Feature Importance (for Random Forest)
+![LSTM Prediction Plot](Stock_prediction_using_LSTM.png)
+![RNN Prediction Plot](Stock_prediction_using_RNN.png)
+![Random Forest Regressor](Stock_prediction_using_Random_Forest_Regressor.png)
