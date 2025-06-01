@@ -7,11 +7,8 @@ This project explores stock price prediction using three models:
 - ✅ Long Short-Term Memory (LSTM)
 
 The goal is to compare traditional machine learning and deep learning techniques on historical stock data using metrics like MAE, MSE, RMSE, and R².
-Always show details
 
-Copy
-
----
+----
 
 ## 📌 Technologies Used
 
